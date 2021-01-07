@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on LoveIt</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on LoveIt</description>
+    <title>First_post on LoveIt</title>
+    <link>https://example.com/posts/first_post/</link>
+    <description>Recent content in First_post on LoveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 07 Jan 2021 17:42:40 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/posts/first_post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
