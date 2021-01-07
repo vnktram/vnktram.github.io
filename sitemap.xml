@@ -3,26 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/first_post/</loc>
-    <lastmod>2021-01-07T17:42:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-01-07T17:42:40+05:30</lastmod>
+    <loc>https://example.com/first_post/</loc>
+    <lastmod>2021-01-07T17:44:16+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2021-01-07T17:42:40+05:30</lastmod>
+    <lastmod>2021-01-07T17:44:16+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-01-07T17:44:16+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://example.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
